@@ -1,15 +1,15 @@
-2024/08/16-09:06:35.906 48c Recovering log #4
-2024/08/16-09:06:35.914 48c Delete type=0 #4
-2024/08/16-09:06:35.914 48c Delete type=3 #2
-2024/08/16-09:11:24.784 2a4c Level-0 table #9: started
-2024/08/16-09:11:24.792 2a4c Level-0 table #9: 12718 bytes OK
-2024/08/16-09:11:24.801 2a4c Delete type=0 #7
-2024/08/16-09:11:24.808 2a4c Manual compaction at level-0 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
-2024/08/16-09:11:24.808 2a4c Manual compaction at level-1 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at '!adventures!6dnrjhwTTuyu9Yth' @ 2 : 1
-2024/08/16-09:11:24.808 2a4c Compacting 1@1 + 1@2 files
-2024/08/16-09:11:24.817 2a4c Generated table #10@1: 1 keys, 12718 bytes
-2024/08/16-09:11:24.817 2a4c Compacted 1@1 + 1@2 files => 12718 bytes
-2024/08/16-09:11:24.817 2a4c compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/16-09:11:24.825 2a4c Delete type=2 #5
-2024/08/16-09:11:24.825 2a4c Delete type=2 #9
-2024/08/16-09:11:24.850 2a4c Manual compaction at level-1 from '!adventures!6dnrjhwTTuyu9Yth' @ 2 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
+2024/08/16-09:30:26.591 118c Recovering log #8
+2024/08/16-09:30:26.607 118c Delete type=0 #8
+2024/08/16-09:30:26.607 118c Delete type=3 #6
+2024/08/16-09:36:29.113 2dac Level-0 table #14: started
+2024/08/16-09:36:29.120 2dac Level-0 table #14: 25364 bytes OK
+2024/08/16-09:36:29.122 2dac Delete type=0 #12
+2024/08/16-09:36:29.132 2dac Manual compaction at level-0 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
+2024/08/16-09:36:29.132 2dac Manual compaction at level-1 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at '!adventures!6dnrjhwTTuyu9Yth' @ 3 : 1
+2024/08/16-09:36:29.132 2dac Compacting 1@1 + 1@2 files
+2024/08/16-09:36:29.137 2dac Generated table #15@1: 1 keys, 12758 bytes
+2024/08/16-09:36:29.137 2dac Compacted 1@1 + 1@2 files => 12758 bytes
+2024/08/16-09:36:29.139 2dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/16-09:36:29.139 2dac Delete type=2 #10
+2024/08/16-09:36:29.139 2dac Delete type=2 #14
+2024/08/16-09:36:29.145 2dac Manual compaction at level-1 from '!adventures!6dnrjhwTTuyu9Yth' @ 3 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
