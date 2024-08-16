@@ -1,0 +1,43 @@
+{
+   "id":"dod-adventurers-guild",
+   "title":"Äventyrargillet",
+   "description":"Husregler, spelbara släkten, m.m.",
+   "url":"https://github.com/Rangertheman/dod-adventurers-guild",
+   "manifest":"https://raw.githubusercontent.com/Rangertheman/dod-adventurers-guild/master/module.json",
+   "download":"https://github.com/Rangertheman/dod-adventurers-guild/archive/master.zip",
+   "authors":[
+      {
+         "name":"Krister Persson (Rangertheman)",
+         "discord":"Rangertheman",
+         "flags":{
+            
+         }
+      }
+   ],
+   "version":"0.0.1",
+   "compatibility":{
+      "minimum":"12",
+      "verified":"12"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"dragonbane",
+            "type":"system",
+            "compatibility":{
+               "minimum":"1.9.1"
+            }
+         }
+      ]
+   },
+   "packs":[
+      {
+         "label":"Äventyrargillet",
+         "name":"aventyrargillet",
+         "path":"./packs/aventyrargillet.db",
+         "type":"Adventure",
+         "system":"dragonbane",
+         "banner":"./modules/dod-adventurers-guild/img/Drakar-och-Demoner_rollpersonen-1200x1200.jpg"
+      }
+   ]
+}

@@ -1,2 +1,3 @@
-# dod-adventurers-guild
-Äventyrargillet
+# Äventyrargillet
+
+Husregler, spelbara släkten, m.m. till vår spelgrupp
