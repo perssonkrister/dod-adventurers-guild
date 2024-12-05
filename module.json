@@ -2,9 +2,9 @@
    "id":"dod-adventurers-guild",
    "title":"Äventyrargillet",
    "description":"Husregler, spelbara släkten, m.m.",
-   "url":"https://github.com/Rangertheman/dod-adventurers-guild",
-   "manifest":"https://raw.githubusercontent.com/Rangertheman/dod-adventurers-guild/master/module.json",
-   "download":"https://github.com/Rangertheman/dod-adventurers-guild/archive/master.zip",
+   "url":"https://github.com/perssonkrister/dod-adventurers-guild",
+   "manifest":"https://raw.githubusercontent.com/perssonkrister/dod-adventurers-guild/master/module.json",
+   "download":"https://github.com/perssonkrister/dod-adventurers-guild/archive/master.zip",
    "authors":[
       {
          "name":"Krister Persson (Rangertheman)",
@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.1.13",
+   "version":"0.1.14",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
