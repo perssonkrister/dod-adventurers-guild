@@ -1,8 +1,0 @@
-2025/01/19-18:49:51.946 fcc Recovering log #658
-2025/01/19-18:49:51.954 fcc Delete type=0 #658
-2025/01/19-18:49:51.954 fcc Delete type=3 #656
-2025/01/19-19:56:11.722 89f0 Level-0 table #664: started
-2025/01/19-19:56:11.722 89f0 Level-0 table #664: 0 bytes OK
-2025/01/19-19:56:11.725 89f0 Delete type=0 #662
-2025/01/19-19:56:11.725 89f0 Manual compaction at level-0 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
-2025/01/19-19:56:11.725 89f0 Manual compaction at level-1 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
