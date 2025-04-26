@@ -1,0 +1,8 @@
+2025/04/26-17:57:51.093 168c4 Recovering log #178
+2025/04/26-17:57:51.095 168c4 Delete type=0 #178
+2025/04/26-17:57:51.095 168c4 Delete type=3 #176
+2025/04/26-17:57:54.046 18ac4 Level-0 table #183: started
+2025/04/26-17:57:54.046 18ac4 Level-0 table #183: 0 bytes OK
+2025/04/26-17:57:54.046 18ac4 Delete type=0 #181
+2025/04/26-17:57:54.047 18ac4 Manual compaction at level-0 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
+2025/04/26-17:57:54.047 18ac4 Manual compaction at level-1 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
