@@ -1,8 +1,8 @@
-2025/05/02-18:34:37.462 208f4 Recovering log #273
-2025/05/02-18:34:37.464 208f4 Delete type=0 #273
-2025/05/02-18:34:37.464 208f4 Delete type=3 #271
-2025/05/02-19:03:17.572 1bd80 Level-0 table #278: started
-2025/05/02-19:03:17.572 1bd80 Level-0 table #278: 0 bytes OK
-2025/05/02-19:03:17.573 1bd80 Delete type=0 #276
-2025/05/02-19:03:17.573 1bd80 Manual compaction at level-0 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
-2025/05/02-19:03:17.573 1bd80 Manual compaction at level-1 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
+2025/05/04-19:13:02.716 1dda0 Recovering log #302
+2025/05/04-19:13:02.718 1dda0 Delete type=0 #302
+2025/05/04-19:13:02.718 1dda0 Delete type=3 #300
+2025/05/04-19:59:56.198 230d0 Level-0 table #307: started
+2025/05/04-19:59:56.198 230d0 Level-0 table #307: 0 bytes OK
+2025/05/04-19:59:56.198 230d0 Delete type=0 #305
+2025/05/04-19:59:56.199 230d0 Manual compaction at level-0 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
+2025/05/04-19:59:56.199 230d0 Manual compaction at level-1 from '!adventures!6dnrjhwTTuyu9Yth' @ 72057594037927935 : 1 .. '!adventures!6dnrjhwTTuyu9Yth' @ 0 : 0; will stop at (end)
